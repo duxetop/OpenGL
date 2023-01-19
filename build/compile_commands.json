@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/haris/Desktop/vscode/C++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/Users/haris/Desktop/vscode/C++/path/to/opengl/headers -g -std=gnu++11 -o CMakeFiles\\opengl.dir\\main.cpp.obj -c C:\\Users\\haris\\Desktop\\vscode\\C++\\main.cpp",
+  "file": "C:\\Users\\haris\\Desktop\\vscode\\C++\\main.cpp"
+}
+]
